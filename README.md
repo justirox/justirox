@@ -16,3 +16,23 @@
 ## Langages & Technologies
 
 Lua, JavaScript, HTML/CSS, SQL, et bien d'autres.
+
+
+
+## Mes Projets
+
+### Fantasia RP V4
+
+Fantasia est mon serveur RP FiveM américain développé par moi et un amis.
+Discord : [Lien discord](https://discord.gg/qcvVfMeEWw)
+
+### JI Dev
+
+JI Dev est mon projet où je pourrais partager et vendre mes scipt et autre...
+Discord : Je suis entrain de le faire...
+Tebex : Je suis entrain de le faire...
+
+
+## Mes réseaux sociaux
+
+Youtube : [Lien de ma chaine](https://www.youtube.com/@irox__)
