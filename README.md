@@ -5,7 +5,7 @@
 
 ## A propos de moi.
 
-👋 Salut, je suis Just'iRox ! Passionné par le développement et créateur dans l'âme, je me spécialise dans le développement pour FiveM. Je possède et gère mon propre serveur FiveM ainsi qu'un serveur dédié au développement, où je mets en œuvre mes idées et mes compétences pour créer des expériences immersives pour la communauté.
+👋 Salut, je suis **Just'iRox** ! Passionné par le développement et créateur dans l'âme, je me spécialise dans le développement pour **FiveM**. Je possède et gère mon propre serveur FiveM ainsi qu'un serveur dédié au développement, où je mets en œuvre mes idées et mes compétences pour créer des expériences immersives pour la communauté.
 
 🚀 Je suis constamment à la recherche de nouveaux défis et d'opportunités pour améliorer mes compétences en programmation et en gestion de serveurs. Mon objectif est de construire des environnements de jeu uniques et d'offrir des services de qualité à la communauté FiveM.
 
@@ -24,13 +24,13 @@ Lua, JavaScript, HTML/CSS, SQL, et bien d'autres.
 ### Fantasia RP V4
 
 Fantasia est mon serveur RP FiveM américain développé par moi et un amis.
-Discord : [Lien discord](https://discord.gg/qcvVfMeEWw)
+- **Discord :** [Lien discord](https://discord.gg/qcvVfMeEWw)
 
 ### JI Dev
 
 JI Dev est mon projet où je pourrais partager et vendre mes scipt et autre...
-Discord : Je suis entrain de le faire...
-Tebex : Je suis entrain de le faire...
+- **Discord :** Je suis entrain de le faire...
+- **Tebex :** Je suis entrain de le faire...
 
 
 ## Mes réseaux sociaux
